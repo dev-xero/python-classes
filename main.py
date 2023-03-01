@@ -106,3 +106,5 @@ if __name__ == "__main__":
         sleep(1)
 
     print(cc.make_payment(2_400))
+
+    print(cc.make_payment(120_000))
